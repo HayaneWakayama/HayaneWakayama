@@ -1,5 +1,4 @@
 ## 📜 **Hayane Wakayama**
-<img src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=1060&t=st=1692136658~exp=1692137258~hmac=6fc5c8cfb019d265250e41a5006f7d8f7c6027e0b78bed1944764e1dbd3562be" min-width="300px" max-width="300px" width="300px" align="right">
 
 ## Desenvolvedora de software backend em formação. Atualmente cursando Análise e Desenvolvimento de sistemas, com especializações em backend.
 ## Conecte-se comigo:
