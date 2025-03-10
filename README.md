@@ -1,6 +1,6 @@
 ## 📜 **Hayane Wakayama**
 
-## Desenvolvedora de software backend em formação. Atualmente cursando Análise e Desenvolvimento de sistemas, com especializações em backend.
+## Desenvolvedora de software fullstack. Atualmente cursando MBA em Engenharia de Software.
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayane-sales-wakayama-b0687b27b)
 
